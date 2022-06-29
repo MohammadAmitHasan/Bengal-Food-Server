@@ -174,9 +174,9 @@ const collectins = [
         noOfRatting: '121',
         price: 200,
         oldPrice: 300,
-        category: 'fruits',
-        subCategory: 'red fruits',
-        group: 'fresh fruit',
+        category: 'Groceries',
+        subCategory: 'red sauces',
+        group: 'sauces',
         sku: 'fgf-15'
     },
 ]
