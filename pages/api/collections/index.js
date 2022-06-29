@@ -177,7 +177,7 @@ const collectins = [
         category: 'Groceries',
         subCategory: 'red sauces',
         group: 'sauces',
-        sku: 'fgf-15'
+        sku: 'fgf-16'
     },
 ]
 
