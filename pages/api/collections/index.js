@@ -102,9 +102,9 @@ const collectins = [
         noOfRatting: '121',
         price: 200,
         oldPrice: 300,
-        category: 'fruits',
-        subCategory: 'green fruits',
-        group: 'fresh fruit',
+        category: 'vegetables',
+        subCategory: 'green vegetables',
+        group: 'fresh vegetables',
         sku: 'fgf-9'
     },
     {
