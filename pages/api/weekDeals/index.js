@@ -7,8 +7,7 @@ const collectins = [
         price: 150,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'Yellow fruits',
-        group: 'fresh fruit',
+        subCategory: 'Yellow_fruits',
         sku: 'fgf-1'
     },
     {
@@ -19,8 +18,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'Groceries',
-        subCategory: 'red sauces',
-        group: 'sauces',
+        subCategory: 'red_sauces',
         sku: 'fgf-16'
     },
     {
@@ -31,8 +29,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'green fruits',
-        group: 'fresh fruit',
+        subCategory: 'green_fruits',
         sku: 'fgf-2'
     },
     {
@@ -43,8 +40,7 @@ const collectins = [
         price: 700,
         oldPrice: 300,
         category: 'Meat',
-        subCategory: 'Red Meat',
-        group: 'Beef',
+        subCategory: 'Red_Meat',
         sku: 'fgf-10'
     },
     {
@@ -55,8 +51,7 @@ const collectins = [
         price: 300,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'white fruits',
-        group: 'fresh fruit',
+        subCategory: 'white_fruits',
         sku: 'fgf-4'
     },
     {
@@ -67,8 +62,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'yellow fruits',
-        group: 'fresh fruit',
+        subCategory: 'yellow_fruits',
         sku: 'fgf-5'
     },
     {
@@ -79,8 +73,7 @@ const collectins = [
         price: 160,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'green fruits',
-        group: 'red fruit',
+        subCategory: 'green_fruits',
         sku: 'fgf-6'
     },
     {
@@ -91,8 +84,7 @@ const collectins = [
         price: 400,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'red fruits',
-        group: 'fresh fruit',
+        subCategory: 'red_fruits',
         sku: 'fgf-7'
     },
     {
@@ -103,8 +95,7 @@ const collectins = [
         price: 100,
         oldPrice: 300,
         category: 'vegetables',
-        subCategory: 'green vegetables',
-        group: 'fresh vegetables',
+        subCategory: 'green_vegetables',
         sku: 'fgf-9'
     },
 
@@ -116,8 +107,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'red fruits',
-        group: 'fresh fruit',
+        subCategory: 'red_fruits',
         sku: 'fgf-15'
     },
 

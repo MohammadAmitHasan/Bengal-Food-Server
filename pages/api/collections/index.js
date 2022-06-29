@@ -8,7 +8,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'Yellow fruits',
-        group: 'fresh fruit',
         sku: 'fgf-1'
     },
     {
@@ -20,7 +19,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'green fruits',
-        group: 'fresh fruit',
         sku: 'fgf-2'
     },
     {
@@ -32,7 +30,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'white fruits',
-        group: 'fresh fruit',
         sku: 'fgf-3'
     },
     {
@@ -44,7 +41,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'white fruits',
-        group: 'fresh fruit',
         sku: 'fgf-4'
     },
     {
@@ -56,7 +52,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'yellow fruits',
-        group: 'fresh fruit',
         sku: 'fgf-5'
     },
     {
@@ -68,7 +63,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'green fruits',
-        group: 'red fruit',
         sku: 'fgf-6'
     },
     {
@@ -80,7 +74,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'red fruits',
-        group: 'fresh fruit',
         sku: 'fgf-7'
     },
     {
@@ -92,7 +85,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'green fruits',
-        group: 'fresh fruit',
         sku: 'fgf-8'
     },
     {
@@ -104,7 +96,6 @@ const collectins = [
         oldPrice: 300,
         category: 'vegetables',
         subCategory: 'green vegetables',
-        group: 'fresh vegetables',
         sku: 'fgf-9'
     },
     {
@@ -116,7 +107,6 @@ const collectins = [
         oldPrice: 300,
         category: 'Meat',
         subCategory: 'Red Meat',
-        group: 'Beef',
         sku: 'fgf-10'
     },
     {
@@ -128,7 +118,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'yellow fruits',
-        group: 'fresh fruit',
         sku: 'fgf-11'
     },
     {
@@ -140,7 +129,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'green fruits',
-        group: 'fresh fruit',
         sku: 'fgf-13'
     },
     {
@@ -152,7 +140,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'red fruits',
-        group: 'fresh fruit',
         sku: 'fgf-14'
     },
     {
@@ -164,7 +151,6 @@ const collectins = [
         oldPrice: 300,
         category: 'fruits',
         subCategory: 'red fruits',
-        group: 'fresh fruit',
         sku: 'fgf-15'
     },
     {
@@ -176,7 +162,6 @@ const collectins = [
         oldPrice: 300,
         category: 'Groceries',
         subCategory: 'red sauces',
-        group: 'sauces',
         sku: 'fgf-16'
     },
 ]
