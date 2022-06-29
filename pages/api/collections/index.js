@@ -7,7 +7,7 @@ const collectins = [
         price: 150,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'Yellow fruits',
+        subCategory: 'Yellow_fruits',
         sku: 'fgf-1'
     },
     {
@@ -18,7 +18,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'green fruits',
+        subCategory: 'green_fruits',
         sku: 'fgf-2'
     },
     {
@@ -29,7 +29,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'white fruits',
+        subCategory: 'white_fruits',
         sku: 'fgf-3'
     },
     {
@@ -40,7 +40,7 @@ const collectins = [
         price: 300,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'white fruits',
+        subCategory: 'white_fruits',
         sku: 'fgf-4'
     },
     {
@@ -51,7 +51,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'yellow fruits',
+        subCategory: 'yellow_fruits',
         sku: 'fgf-5'
     },
     {
@@ -62,7 +62,7 @@ const collectins = [
         price: 160,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'green fruits',
+        subCategory: 'green_fruits',
         sku: 'fgf-6'
     },
     {
@@ -73,7 +73,7 @@ const collectins = [
         price: 400,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'red fruits',
+        subCategory: 'red_fruits',
         sku: 'fgf-7'
     },
     {
@@ -84,7 +84,7 @@ const collectins = [
         price: 120,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'green fruits',
+        subCategory: 'green_fruits',
         sku: 'fgf-8'
     },
     {
@@ -95,7 +95,7 @@ const collectins = [
         price: 100,
         oldPrice: 300,
         category: 'vegetables',
-        subCategory: 'green vegetables',
+        subCategory: 'green_vegetables',
         sku: 'fgf-9'
     },
     {
@@ -106,7 +106,7 @@ const collectins = [
         price: 700,
         oldPrice: 300,
         category: 'Meat',
-        subCategory: 'Red Meat',
+        subCategory: 'Red_Meat',
         sku: 'fgf-10'
     },
     {
@@ -117,7 +117,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'yellow fruits',
+        subCategory: 'yellow_fruits',
         sku: 'fgf-11'
     },
     {
@@ -128,18 +128,18 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'green fruits',
+        subCategory: 'green_fruits',
         sku: 'fgf-13'
     },
     {
-        name: 'Red Orange',
+        name: 'Re_ Orange',
         img: 'https://i.ibb.co/6FSSWFq/Rectangle-1275-1.png',
         ratting: '5',
         noOfRatting: '121',
         price: 190,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'red fruits',
+        subCategory: 'red_ fruits',
         sku: 'fgf-14'
     },
     {
@@ -150,7 +150,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'fruits',
-        subCategory: 'red fruits',
+        subCategory: 'red_fruits',
         sku: 'fgf-15'
     },
     {
@@ -161,7 +161,7 @@ const collectins = [
         price: 200,
         oldPrice: 300,
         category: 'Groceries',
-        subCategory: 'red sauces',
+        subCategory: 'red_sauces',
         sku: 'fgf-16'
     },
 ]
